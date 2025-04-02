@@ -1,9 +1,9 @@
 
-# EcoTourism & Youth Empowerment Platform API
+# TravelSync Iwacu Program API
 
 ## Description
 
-Backend API for the EcoTourism & Youth Empowerment Platform.
+Backend API for the TravelSync Iwacu Program.
 
 ## Installation
 
